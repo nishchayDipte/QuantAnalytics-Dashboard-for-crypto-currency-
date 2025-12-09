@@ -84,20 +84,4 @@ The dashboard runs a forward-test simulation on the sampled data:
 *   **Exit Rule:** $Z$ crosses $0$ (Mean Reversion).
 *   **PnL Calculation:** Approximated as the difference in spread values between entry and exit.
 
-## 5. AI Usage Transparency
 
-This project utilized Generative AI to accelerate development, specifically for scaffolding the frontend architecture and implementing complex statistical formulas.
-
-**How AI was used:**
-*   **Boilerplate Generation:** Creating the initial React + TypeScript file structure and Tailwind CSS configuration.
-*   **Mathematical Implementation:** Translating mathematical formulas for OLS Regression and Kalman Filters into optimized TypeScript functions.
-*   **Component Design:** Generating the responsive grid layout and integration with the Recharts library.
-*   **Documentation:** Drafting the explanation of the trading strategy and analytics pipeline.
-
-**Prompts Used:**
-The following prompts were used during the development process:
-1.  *"Act as a world-class senior frontend engineer... create a crypto dashboard with Binance WebSocket connection."*
-2.  *"Implement a Kalman Filter class in TypeScript for dynamic hedge ratio estimation."*
-3.  *"Create a real-time backtest engine that simulates trades based on Z-Score thresholds."*
-4.  *"Add 1-minute and 5-minute sampling options to the analytics processor."*
-5.  *"Explain the mathematical logic behind the Z-Score visibility issue and fix the chart scaling."*
