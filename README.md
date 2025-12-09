@@ -1,5 +1,7 @@
 
 # QuantAnalytics Dashboard
+<img width="1336" height="631" alt="Screenshot 2025-12-09 193821" src="https://github.com/user-attachments/assets/7a9be33c-3d8e-46f8-af70-aad4179bb1d7" />
+
 
 A real-time cryptocurrency derivatives analytics platform designed for **Statistical Arbitrage** and **Pair Trading**. This application ingests live tick data via WebSockets, calculates dynamic hedge ratios using OLS or Kalman Filters, and visualizes Z-Scores for mean-reversion strategies.
 
