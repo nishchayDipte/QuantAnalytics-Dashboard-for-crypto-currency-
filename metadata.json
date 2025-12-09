@@ -1,0 +1,5 @@
+{
+  "name": "QuantAnalytics Dashboard",
+  "description": "Real-time crypto derivatives analytics platform featuring live WebSocket data ingestion, spread analysis, Z-score calculation, and dynamic hedge ratio estimation.",
+  "requestFramePermissions": []
+}
