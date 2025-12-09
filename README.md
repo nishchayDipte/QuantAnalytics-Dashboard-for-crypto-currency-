@@ -2,7 +2,7 @@
 # QuantAnalytics Dashboard
 <img width="1336" height="631" alt="Screenshot 2025-12-09 193821" src="https://github.com/user-attachments/assets/7a9be33c-3d8e-46f8-af70-aad4179bb1d7" />
 
-#architecture 
+## Architecture 
 <img width="1326" height="635" alt="image" src="https://github.com/user-attachments/assets/25f878a2-738c-4820-b3fe-3c408c7e7e38" />
 
 
